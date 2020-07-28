@@ -1,0 +1,5 @@
+opencv-python
+werkzeug
+numpy
+flask
+gunicorn
